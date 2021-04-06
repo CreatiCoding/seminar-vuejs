@@ -14,3 +14,5 @@ petfriends inner seminar-vuejs
 [3일차](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/03.md) : 챕터 5
 
 [4일차](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/04.md) : 챕터 6
+
+[5일차](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/05.md) : 챕터 7, 8
