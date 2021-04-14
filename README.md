@@ -20,3 +20,5 @@ petfriends inner seminar-vuejs
 ## 기타 자료
 
 [Git 브랜치 충돌](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/git-branch-conflict.md)
+
+[디자인 시스템을 위한 스토리북](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/design-system-storybook.md)
