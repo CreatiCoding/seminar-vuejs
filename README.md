@@ -17,6 +17,8 @@ petfriends inner seminar-vuejs
 
 [5일차](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/05.md) : 챕터 7, 8
 
+[5일차](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/06.md) : 챕터 12
+
 ## 기타 자료
 
 [Git 브랜치 충돌](https://cdn-creco.pages.dev/html/view?url=https://raw.githubusercontent.com/CreatiCoding/seminar-vuejs/main/git-branch-conflict.md)
